@@ -1,0 +1,17 @@
+# Veritabanı yapılandırması (şifreler vb. içerir)
+config/db.php
+
+# macOS sistem dosyaları
+.DS_Store
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editör/IDE yapılandırmaları
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Genel
+*.log
